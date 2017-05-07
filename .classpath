@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring jars"/>
+	<classpathentry kind="lib" path="E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/spring Aop lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/spring Aop lib/aopalliance-.jar"/>
+	<classpathentry kind="lib" path="E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/spring Aop lib/aspectj-1.6.9.jar"/>
+	<classpathentry kind="lib" path="E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/spring Aop lib/aspectjweaver-1.6.9.jar"/>
+	<classpathentry kind="lib" path="E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/spring Aop lib/asm-3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
