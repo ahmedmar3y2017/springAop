@@ -8,7 +8,10 @@ public class start {
 
     ApplicationContext context = new ClassPathXmlApplicationContext("Bean.xml");
     HelloWorld obj = (HelloWorld) context.getBean("helloWorld");
+    obj.setName("ddd");
+    System.out.println(obj.nn("eslam"));
     System.out.println(obj.getName());
+    System.out.println(obj.getAddress());
 
   }
 }

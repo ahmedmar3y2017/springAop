@@ -11,7 +11,8 @@
 
   <bean id="helloWorld" class="springRevision.HelloWorld">
     <property name="name" value="ahmed"></property>
-
+    <property name="address" value="tanta"></property>
+    <property name="number" value="100"></property>
   </bean>
 
   <bean id="aspect" class="AspectJ.aspect"></bean>
